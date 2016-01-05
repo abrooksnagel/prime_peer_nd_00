@@ -1,0 +1,15 @@
+{
+  "name": "prime_peer_nd_00",
+  "version": "1.0.0",
+  "description": "node peer project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
